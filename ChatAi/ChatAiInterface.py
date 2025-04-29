@@ -7,7 +7,7 @@ async def getChatAiMessage(messages,user):
 
     # 定义请求头
     headers = {
-        "Authorization": "Bearer <Api-password>",  # 替换为您的API密码
+        "Authorization": "Bearer NpqoXzRhGHtvzyoiQNFh:jfJNoiqPFeORDfBXiANv",  # 替换为您的API密码
         "Content-Type": "application/json"
     }
 
