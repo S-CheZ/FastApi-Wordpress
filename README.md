@@ -1,0 +1,2 @@
+# FastApi-Wordpress
+使用fastapi配合vue3和vuetify框架编写，用于展示markdown格式的博客，同时运用讯飞星火大模型实现ai问答会话
